@@ -117,6 +117,10 @@ In this lab:
 ```
 ./gradlew build
 ```
+## 📸 Lab Screenshots
+
+![Spring Initializr](lab-screenshots/spring-initializr.png)
+![Build Success](lab-screenshots/build-success.png)
 
 ###  Build Result:
 BUILD SUCCESSFUL
